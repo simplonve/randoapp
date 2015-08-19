@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200"
-   height="200"
+   width="1000"
+   height="1000"
    id="svg3051"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="pictoheure3.svg">
+   sodipodi:docname="pictoheure1.svg">
   <defs
      id="defs3053" />
   <sodipodi:namedview
@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="470.23621"
-     inkscape:cy="20.840401"
+     inkscape:zoom="0.061871843"
+     inkscape:cx="1691.2957"
+     inkscape:cy="-473.77653"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,33 +86,30 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-852.36218)" />
+     transform="translate(0,-52.362183)" />
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="cercle"
-     transform="translate(0,-800)">
+     inkscape:label="cercle">
     <path
-       id="path3936"
-       d="m 99.991658,803.01643 c -59.881271,0.28538 -96.3687954,50.49748 -96.1833731,97.67462 0.2363889,60.14833 50.9199011,97.53344 97.6056751,97.15454 54.99532,-0.44635 96.63713,-45.2696 97.81244,-97.15454 0.78521,-34.66338 -29.35619,-97.09549 -97.81244,-97.66834 -0.4744,-0.004 -0.95079,-0.009 -1.422302,-0.006 z m 2.199242,10.88338 c 33.27898,0.10739 86.24845,28.40517 84.86142,87.36767 -0.85928,36.52791 -28.92565,86.21479 -85.63836,86.21479 -24.059944,0 -87.07945,-22.34494 -87.07945,-86.79122 0,-36.08992 30.939582,-86.21211 87.07945,-86.78498 0.25954,-0.002 0.51489,-0.008 0.77694,-0.006 z"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.20049952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3924"
+       d="M 499.78204,20.256643 C 201.12164,21.679843 19.138542,272.11485 20.063342,507.41285 c 1.179,299.9924 253.965198,486.45231 486.812498,484.56251 274.2915,-2.2262 481.9818,-225.78411 487.8437,-484.56251 3.9163,-172.8851 -146.4152,-484.267807 -487.8437,-487.125007 -2.3661,-0.02 -4.7421,-0.042 -7.0938,-0.031 z m 10.9688,54.2812 c 165.9804,0.5354 430.1679,141.672007 423.25,435.750007 -4.2857,182.1845 -144.2679,430 -427.125,430 -120,0 -434.312498,-111.4464 -434.312498,-432.875 0,-180 154.312498,-429.986603 434.312498,-432.843807 1.2946,-0.013 2.568,-0.035 3.875,-0.031 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="333"
-     transform="translate(0,-800)">
+     inkscape:label="333">
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
-       id="path3938"
-       d="m 96.398783,896.55153 -42.204026,39.98939 7.475204,8.00676 45.154799,-42.76594 -0.47261,-74.90227 -9.953367,0 c 0.13004,26.59933 -0.481698,43.07584 0,69.67206 z"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.20049952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path3926"
+       d="m 482.86244,537.27445 265.6428,-144.5714 -25.2857,-43 -191.7143,102.5 0,-312.9286 -49.6428,0 c 0.6486,132.6653 -1.4025,265.3503 1,398 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="22"
-     transform="translate(0,-800)" />
+     inkscape:label="22" />
 </svg>
