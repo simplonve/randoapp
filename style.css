@@ -15,9 +15,15 @@ h1, h2, h3 {
 .titre,  .info {
      text-align: center;
 }
-.imagerando {
-	width: 30%;
+.imagerando  {
+	width: 40%;
+
 }
 .info {
-	width: 30%;
+	width: 40%;
+	border: ;
+	position: relative;
+}
+.imgettitre {
+	display: inline-block;
 }
