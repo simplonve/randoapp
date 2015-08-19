@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   id="svg3051"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="pictoheure2.svg">
+  <defs
+     id="defs3053" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9350455"
+     inkscape:cx="84.092802"
+     inkscape:cy="113.52591"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-from-guide="false"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     objecttolerance="1"
+     gridtolerance="1"
+     guidetolerance="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="10.357143,723.92857"
+       id="guide3864" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="989.94949,345.47217"
+       id="guide3876" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-1155.7143,2211.4286"
+       id="guide3975" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-1185.7143,2214.2857"
+       id="guide3977" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="688.57143,17.142857"
+       id="guide3986" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="507.14286,1060"
+       id="guide3996" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-694.28572,875.71429"
+       id="guide3039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3056">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1002.3622)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="cercle"
+     transform="translate(0,-950)">
+    <path
+       id="path3932"
+       d="m 24.397942,952.04499 c -14.373415,0.0678 -23.1315837,11.99949 -23.0870768,23.20997 0.056743,14.2928 12.2223998,23.17643 23.4284728,23.08641 13.200634,-0.10607 23.195992,-10.75722 23.478104,-23.08641 0.188476,-8.2369 -7.046414,-23.07235 -23.478104,-23.20848 -0.113873,-7.7e-4 -0.228219,-0.002 -0.341396,-0.002 z m 0.527886,2.58616 c 7.98802,0.0254 20.702381,6.7498 20.369448,20.76079 -0.206254,8.67996 -6.943077,20.48684 -20.555938,20.48684 -5.775151,0 -20.9018431,-5.30974 -20.9018431,-20.62382 0,-8.57587 7.4264861,-20.48619 20.9018431,-20.62231 0.0623,-6.2e-4 0.123603,-0.002 0.18649,-0.002 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.04788442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="333"
+     transform="translate(0,-950)">
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3934"
+       d="m 23.583664,976.67769 11.714874,9.76708 1.501618,-1.85036 -10.762053,-9.08026 -0.113439,-17.79869 -2.389128,0 c 0.03122,6.32067 -0.0675,12.64229 0.04813,18.96223 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.04788442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="22"
+     transform="translate(0,-950)" />
+</svg>
