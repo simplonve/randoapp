@@ -6,11 +6,11 @@
 
 @font-face {
     font-family: 'yukarimobileregular';
-    src: url('fonts/yukarimobil-webfont.eot');
-    src: url('fonts/yukarimobil-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/yukarimobil-webfont.woff') format('woff'),
-         url('fonts/yukarimobil-webfont.ttf') format('truetype'),
-         url('fonts/yukarimobil-webfont.svg#yukarimobileregular') format('svg');
+    src: url('/fonts/yukarimobil-webfont.eot');
+    src: url('/fonts/yukarimobil-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/yukarimobil-webfont.woff') format('woff'),
+         url('/fonts/yukarimobil-webfont.ttf') format('truetype'),
+         url('/fonts/yukarimobil-webfont.svg#yukarimobileregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
