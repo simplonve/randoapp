@@ -5,18 +5,18 @@
 }
 
 @font-face {
-  font-family: 'yukarimobileregular';
-  src: url('/fonts/yukarimobil-webfont.eot');
-  src: url('/fonts/yukarimobil-webfont.eot?#iefix') format('embedded-opentype'),
-  url('/fonts/yukarimobil-webfont.woff') format('woff'),
-  url('/fonts/yukarimobil-webfont.ttf') format('truetype'),
-  url('/fonts/yukarimobil-webfont.svg#yukarimobileregular') format('svg');
+  font-family: 'manksans';
+  src: url('/fonts/MankSans.eot');
+  src: url('/fonts/MankSans.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/MankSans.woff') format('woff'),
+  url('/fonts/MankSans.ttf') format('truetype'),
+  url('/fonts/MankSans.svg#manksans') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 h1, h2, h3 {
-	font-family: 'yukarimobileregular', Arial;
+	font-family: 'manksans', Arial;
 }
 
 .titre, .info {
