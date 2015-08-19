@@ -16,14 +16,12 @@ h1, h2, h3 {
      text-align: center;
 }
 .imagerando  {
-	width: 40%;
-
+	display: inline-block;
+	width: 45%;
 }
 .info {
-	width: 40%;
-	border: ;
-	position: relative;
-}
-.imgettitre {
-	display: inline-block;
+	display: inline-table;
+	border-style: solid;
+	width: 45%;
+	height: 45%;
 }
