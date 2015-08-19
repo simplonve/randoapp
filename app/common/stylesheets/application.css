@@ -18,7 +18,6 @@
 h1, h2, h3 {
               text-align: center;
 }
-<<<<<<< HEAD
 .imagerando, {
     width: 45%;
     display: -webkit-box;
@@ -49,15 +48,6 @@ h1, h2, h3 {
     -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: flex-start;
-=======
-
-.titre, .info {
- text-align: center;
-}
-
-.imagerando {
-	width: 40%;
->>>>>>> 6d58ab417836ed33af441273f9c1c51cc9a3c81b
 }
 .info {
   border-style: solid;
