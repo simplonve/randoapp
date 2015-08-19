@@ -1,3 +1,9 @@
+.supersonic-navbar-mock {
+  background-color: #00B5FF !important;
+  text-align: center;
+  font-weight: 600;
+}
+
 @font-face {
     font-family: 'yukarimobileregular';
     src: url('fonts/yukarimobil-webfont.eot');
@@ -7,21 +13,26 @@
          url('fonts/yukarimobil-webfont.svg#yukarimobileregular') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
+
 h1, h2, h3 {
 	font-family: 'yukarimobileregular', Arial;
 }
+
 .titre,  .info {
      text-align: center;
 }
+
 .imagerando  {
-	display: inline-block;
-	width: 45%;
+	width: 40%;
 }
+
 .info {
-	display: inline-table;
-	border-style: solid;
-	width: 45%;
-	height: 45%;
+	width: 40%;
+	border: ;
+	position: relative;
+}
+
+.imgettitre {
+	display: inline-block;
 }
