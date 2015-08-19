@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200"
-   height="200"
+   width="50"
+   height="50"
    id="svg3051"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    sodipodi:docname="pictoheure3.svg">
   <defs
      id="defs3053" />
@@ -24,18 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="470.23621"
-     inkscape:cy="20.840401"
+     inkscape:zoom="5.8700911"
+     inkscape:cx="64.792748"
+     inkscape:cy="22.34126"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-from-guide="false"
-     inkscape:window-width="1600"
+     inkscape:window-width="1535"
      inkscape:window-height="876"
-     inkscape:window-x="0"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      objecttolerance="1"
@@ -86,33 +86,33 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-852.36218)" />
+     transform="translate(0,-1002.3622)" />
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="cercle"
-     transform="translate(0,-800)">
+     transform="translate(0,-950)">
     <path
        id="path3936"
-       d="m 99.991658,803.01643 c -59.881271,0.28538 -96.3687954,50.49748 -96.1833731,97.67462 0.2363889,60.14833 50.9199011,97.53344 97.6056751,97.15454 54.99532,-0.44635 96.63713,-45.2696 97.81244,-97.15454 0.78521,-34.66338 -29.35619,-97.09549 -97.81244,-97.66834 -0.4744,-0.004 -0.95079,-0.009 -1.422302,-0.006 z m 2.199242,10.88338 c 33.27898,0.10739 86.24845,28.40517 84.86142,87.36767 -0.85928,36.52791 -28.92565,86.21479 -85.63836,86.21479 -24.059944,0 -87.07945,-22.34494 -87.07945,-86.79122 0,-36.08992 30.939582,-86.21211 87.07945,-86.78498 0.25954,-0.002 0.51489,-0.008 0.77694,-0.006 z"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.20049952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.833784,954.89588 c -14.516854,0.0642 -23.3624243,11.37332 -23.3174729,21.99883 0.057308,13.54694 12.3443729,21.96703 23.6622769,21.8817 13.332365,-0.10057 23.427474,-10.19588 23.712402,-21.8817 0.190357,-7.80708 -7.11674,-21.8684 -23.712402,-21.99742 -0.115007,-8.2e-4 -0.230497,-0.002 -0.344804,-0.002 z m 0.533155,2.45122 c 8.067732,0.0242 20.908976,6.39757 20.572722,19.67743 -0.208312,8.22703 -7.012366,19.41779 -20.761073,19.41779 -5.832787,0 -21.110433,-5.03265 -21.110433,-19.54761 0,-8.12838 7.500599,-19.41718 21.110433,-19.54621 0.06292,-4.5e-4 0.124824,-0.002 0.188351,-0.002 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.04685036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="333"
-     transform="translate(0,-800)">
+     transform="translate(0,-950)">
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path3938"
-       d="m 96.398783,896.55153 -42.204026,39.98939 7.475204,8.00676 45.154799,-42.76594 -0.47261,-74.90227 -9.953367,0 c 0.13004,26.59933 -0.481698,43.07584 0,69.67206 z"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.20049952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 23.962773,975.96239 -10.231407,9.00662 1.812194,1.80334 10.946754,-9.63199 -0.114574,-16.86991 -2.412967,0 c 0.03153,5.99086 -0.116777,9.70178 0,15.69194 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.04685036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="22"
-     transform="translate(0,-800)" />
+     transform="translate(0,-950)" />
 </svg>

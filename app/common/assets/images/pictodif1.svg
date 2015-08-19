@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1000"
-   height="1000"
+   width="50"
+   height="50"
    id="svg3051"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    sodipodi:docname="pictodif1.svg">
   <defs
      id="defs3053" />
@@ -24,18 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.061871844"
-     inkscape:cx="539.20301"
-     inkscape:cy="298.61538"
+     inkscape:zoom="1.4675228"
+     inkscape:cx="21.712808"
+     inkscape:cy="89.350371"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-from-guide="false"
-     inkscape:window-width="1600"
+     inkscape:window-width="1535"
      inkscape:window-height="876"
-     inkscape:window-x="0"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      objecttolerance="1"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,24 +86,27 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-52.362183)">
+     transform="translate(0,-1002.3622)">
     <path
        sodipodi:nodetypes="ccccccccccc"
        inkscape:connector-curvature="0"
        id="path3903"
-       d="m 925.59245,456.05472 0,50.57143 -868.571399,0 0,130.57143 884.571399,0 0,-181.14286 48.2857,0 0,231.14286 -983.1427986,0 0,-231.14286 z"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 43.719612,1023.2106 0,4.8571 -38.6226403,0 0,12.5407 39.3341093,0 0,-17.3978 2.147114,0 0,22.2 -43.7172703,0 0,-22.2 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.06535137px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="cercle" />
+     inkscape:label="cercle"
+     transform="translate(0,-950)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="333" />
+     inkscape:label="333"
+     transform="translate(0,-950)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="22" />
+     inkscape:label="22"
+     transform="translate(0,-950)" />
 </svg>
