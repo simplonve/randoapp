@@ -82,7 +82,7 @@ h1, h2, h3 {
     -ms-flex-align: start;
     align-items: flex-start;
 }
-.deuxblocs {
+.deuxblocs, .cinqblocs {
     display: -webkit-box;
     display: -moz-box;
     display: -ms-inline-flexbox;
@@ -90,7 +90,7 @@ h1, h2, h3 {
     display: inline-flex;
    display: flex;
 }
-.dormir, .manger {
+.dormir, .manger, .picto {
     border-style: solid;
     width: 45%;
     display: -webkit-box;
