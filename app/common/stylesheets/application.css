@@ -16,8 +16,12 @@
 }
 
 h1, h2, h3 {
-	font-family: 'manksans', Arial;
+	      font-family: 'manksans', Arial;
               text-align: center;
+}
+.lesplus {
+          border-style: solid;
+          background-color: green;
 }
 .imagerando, {
     width: 45%;
@@ -53,6 +57,7 @@ h1, h2, h3 {
 .info {
   border-style: solid;
   width: 45%;
+  background-color: green;
      display: -webkit-box;
     display: -moz-box;
     display: -ms-inline-flexbox;
@@ -83,6 +88,7 @@ h1, h2, h3 {
     align-items: flex-start;
 }
 .deuxblocs, .cinqblocs {
+  background-color: green;
     display: -webkit-box;
     display: -moz-box;
     display: -ms-inline-flexbox;
@@ -91,6 +97,7 @@ h1, h2, h3 {
    display: flex;
 }
 .dormir, .manger, .picto {
+  background-color: green;
     border-style: solid;
     width: 45%;
     display: -webkit-box;
